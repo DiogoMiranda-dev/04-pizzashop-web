@@ -31,7 +31,7 @@ const data = [
   },
   {
     date: '13/12',
-    revenue: 185,
+    revenue: 225,
   },
   {
     date: '14/12',
