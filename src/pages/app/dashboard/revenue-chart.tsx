@@ -37,7 +37,6 @@ export function RevenueChart() {
         from: dateRange?.from,
         to: dateRange?.to,
       }),
-    staleTime: 5000,
   })
 
   const chartsData = useMemo(() => {
